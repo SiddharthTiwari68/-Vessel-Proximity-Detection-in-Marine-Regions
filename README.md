@@ -1,4 +1,4 @@
-# -Vessel-Proximity-Detection-in-Marine-Regions
+# Vessel-Proximity-Detection-in-Marine-Regions
 Using Python
 
 ### Objective
